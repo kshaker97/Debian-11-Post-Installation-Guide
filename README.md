@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-- [Installing Nvidia Drivers](#1-installing-nvidia-drivers)
-- [Installing Build-Essential Packages](#2-installing-build-essential-packages)
-- [Installing Restricted Packages](#3-installing-restricted-packages)
-- [Decreasing Swappiness](#4-decreasing-swappiness)
-- [Installing Essential Binaries](#5-installing-essential-binaries)
-- [Setup Linux for AVR Microcontrollers](#6-setup-linux-for-avr-microcontrollers)
+1. [Installing Nvidia Drivers](#1-installing-nvidia-drivers)
+2. [Installing Build-Essential Packages](#2-installing-build-essential-packages)
+3. [Installing Restricted Packages](#3-installing-restricted-packages)
+4. [Decreasing Swappiness](#4-decreasing-swappiness)
+5. [Installing Essential Binaries](#5-installing-essential-binaries)
+6. [Setup Linux for AVR Microcontrollers](#6-setup-linux-for-avr-microcontrollers)
 
 ## 1. Installing Nvidia Drivers
 
