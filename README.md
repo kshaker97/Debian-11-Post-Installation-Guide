@@ -1,6 +1,9 @@
-# Linux System Setup Guide
+<h1 align="center">
+  Linux System Setup Guide
+</h1>
 
-A comprehensive guide for setting up a fresh Linux system with essential drivers, development tools, and utilities.
+<h4 align="center">A comprehensive guide for setting up a fresh Linux system with essential drivers, development tools, and utilities.
+</h4>
 
 ## Table of Contents
 
