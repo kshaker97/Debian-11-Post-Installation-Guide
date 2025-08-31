@@ -2,7 +2,7 @@
   Debian 11 Post-Installation Guide
 </h1>
 
-<h4 align="center">A step-by-step guide to configuring Debian 11 after a fresh installation. Includes essential system updates, driver setup, security hardening, productivity tools, and performance tweaks.</h4>
+<h4 align="center">A step-by-step guide to configuring Debian 11 after a fresh installation. Includes essential system updates, driver setup, productivity tools and performance tweaks.</h4>
 
 ## Table of Contents
 
